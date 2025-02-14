@@ -3,11 +3,11 @@
 A simple **C++ program** that organizes files in a directory by categorizing them based on their extensions. It automatically moves files into subfolders like **Documents, Images, Videos, Code, Archives, and Executables**.
 
 ## Features
-✅ Uses **C++ std::filesystem** for file handling  
-✅ Automatically categorizes files based on extensions  
-✅ Creates directories dynamically if they don't exist  
-✅ Cross-platform support for **Windows, Linux, and macOS**  
-✅ Easy-to-use command-line tool  
+Uses **C++ std::filesystem** for file handling  
+Automatically categorizes files based on extensions  
+Creates directories dynamically if they don't exist  
+Cross-platform support for **Windows, Linux, and macOS**  
+Easy-to-use command-line tool  
 
 ## Installation
 ### Prerequisites
